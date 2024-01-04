@@ -1,0 +1,37 @@
+<?php 
+return [
+    'labels' => [
+        'UserTree' => '推荐树管理',
+        'user-tree' => '推荐树管理',
+    ],
+    'fields' => [
+        'name' => '用户名',
+        'wallet' => '钱包地址',
+        'path' => '推荐路径',
+        'level' => '层级',
+        'code' => '邀请码',
+        'parent_id' => '上级用户',
+        'status' => '状态',
+        'zhi_num' => '直推人数',
+        'group_num' => '团队人数',
+        'achievement' => '个人业绩',
+        'performance' => '伞下业绩',
+        'total_performance' => '总业绩',
+        'rank' => '等级',
+        'headimgurl' => '头像',
+        'share_qrcode' => '邀请二维码',
+        'usdt' => 'USDT',
+        'ticket' => '门票',
+        'usdt_cj' => '超级节点USDT',
+        'usdt_cs' => '创世节点USDT',
+        'is_active' => '活跃账号',
+        'is_effective' => '有效账号',
+        'tday_join' => '今日拼团次数',
+        'yday_join' => '昨日拼团次数',
+        'active_etime' => '活跃过期时间',
+        'machine_win_total' => '累计中奖矿机金额',
+        'machine_cash_usdt' => '累计矿机提现总额',
+    ],
+    'options' => [
+    ],
+];
